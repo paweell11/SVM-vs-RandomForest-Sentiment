@@ -17,7 +17,6 @@ cd SVM-vs-RandomForest-Sentiment
 2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
-python -m spacy download en_core_web_sm
 ```
 
 3. **Run the app** 
